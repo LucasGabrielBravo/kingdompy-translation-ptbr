@@ -1,0 +1,4 @@
+# Mantém o catálogo gettext com terminações de linha LF em qualquer sistema
+*.po text eol=lf
+*.md text eol=lf
+*.json text eol=lf
